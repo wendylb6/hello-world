@@ -1,5 +1,4 @@
 # hello-world
-First repository
 
 It's a beautiful day in the neighborhood!
 
